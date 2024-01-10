@@ -1,0 +1,1 @@
+Meu nome é Mauricio e estou aprendendo Python básico, com foco em adicionar mais uma skill. Compilo Kernels para Linux, Android, mas não sei ainda programar em C, consigo resolver apenas problemas lógicos e fazer algumas gambiarras. haha.
