@@ -74,21 +74,3 @@ except FileNotFoundError:
     df.to_excel(file_path, index=False)
 
 print(f"Cliente {nome} cadastrado com sucesso!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
